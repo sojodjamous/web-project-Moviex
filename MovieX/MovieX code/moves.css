@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    box-sizing: border-box;
+    perspective: 3000px;
+}
+:root{
+    --width:400px;
+    --hight:450px;
+    --de:50px;
+    --hight1:50px;
+}
+
+.mov{
+    width: var(--width);
+    height: var(--hight);
+    border:1px solid #ffffff;
+    transform-style: preserve-3d;
+    transition: 0.9s;
+
+
+}
+.side{
+    position: absolute;
+    left: -1px;
+    top:-1px;
+    border: inherit;
+}
+.left{
+    width:var(--de) ;
+    height: var(--hight);
+    background-color: #444B;
+    transform-origin: left;
+    transform:translateX(var(--width))rotateY(90deg) ;
+}
+.botin{
+    width: var(--width);
+    height: var(--hight1);
+    background-color: #4445;
+    transform-origin: top;
+    transform:translateY(var(--hight))rotateX(-90deg) ;
+    display:flex ;
+    justify-content:space-around ;
+    align-items: center;
+}
+.main{
+    width: var(--width);
+    height: var(--hight);
+
+}
+.fa:hover{
+    background-color: white;
+    color: black;
+    transition: 1s;
+
+}
+.main video {
+    width:100%;
+    hight:100%;
+}
+.mov .fa{
+    cursor: pointer;
+    width: 30px;
+    height:30px;
+    border: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    transition: 0.5s;
+}
+.mov:hover{
+    transform: rotateX(60deg) rotateY(-20deg);
+}

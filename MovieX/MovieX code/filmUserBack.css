@@ -1,0 +1,72 @@
+
+
+@import url(./variable.css);
+
+
+
+@import url(./reset.css);
+
+
+header, nav { background: var(--rich-black-fogra-29); }
+
+.navbar,
+.banner,
+.movies,
+.category,
+.live {
+    padding: 0 var(--px);
+}
+
+.section-heading {
+    font-size: var(--section-heading);
+    font-weight: var(--fw-5);
+    margin-bottom: 60px;
+}
+
+
+
+
+
+
+
+.container {
+    max-width: 100px;
+    margin: auto;
+}
+
+
+.banner { margin-bottom: 60px; }
+
+.banner-card {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+/*-------------------------------------*\
+  #MOIVES SECTION
+\*-------------------------------------*/
+
+
+/**
+ * filter bar style
+ */
+
+
+
+
+
+
+
+
+
+
