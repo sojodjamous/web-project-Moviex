@@ -29,6 +29,9 @@ When the user click on  the firt live video it takes him to Fjer TV live and the
 ![9](https://user-images.githubusercontent.com/107058107/232052942-73ddf569-df09-463a-99a8-4faecbbc4db1.png)
 
 When the user click on movie icon (at the bottom of the 3D flip card ) it will go to the movie show page , in this page the user can download the film or adding it to favorite  list:
+![10](https://user-images.githubusercontent.com/107058107/232053358-ac8c16b4-1b84-45c3-a155-453e7965cac8.png)
+
+
 
 
 
