@@ -15,4 +15,7 @@ This is sign in for user  account has been registerd:
 After log in , the user will enter to his profile page :
 ![4](https://user-images.githubusercontent.com/107058107/232051217-9787a9cf-db21-4d87-969e-bed43ed8438a.png)
 
+When the user clike on lock icon in his profile , the change password page will appear and he can change his password:
+![5](https://user-images.githubusercontent.com/107058107/232051491-dfa02706-0125-4465-8248-b98823c56458.png)
+
 
