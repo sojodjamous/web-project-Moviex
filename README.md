@@ -21,3 +21,15 @@ When the user clike on lock icon in his profile , the change password page will 
 This is movies page , this page appears when the click on movie icon (the first icon from the right in navbar  in profile page)
 ![6](https://user-images.githubusercontent.com/107058107/232052578-2f8a7fd4-e44b-470c-8d9c-015807dba0df.png)
 
+![7](https://user-images.githubusercontent.com/107058107/232052892-09dfffa6-3402-4a29-ae02-5b1776fc1b90.png)
+
+![8](https://user-images.githubusercontent.com/107058107/232052925-28428af3-9565-4216-9b46-d66d3c10d564.png)
+
+When the user click on  the firt live video it takes him to Fjer TV live and the other to egybest live films:
+![9](https://user-images.githubusercontent.com/107058107/232052942-73ddf569-df09-463a-99a8-4faecbbc4db1.png)
+
+When the user click on movie icon (at the bottom of the 3D flip card ) it will go to the movie show page , in this page the user can download the film or adding it to favorite  list:
+
+
+
+
