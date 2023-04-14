@@ -43,6 +43,35 @@ This is contact us page ,the user can send an message and the message will recei
 ![14](https://user-images.githubusercontent.com/107058107/232054395-2100d359-895c-4eb3-b808-566fafb69499.png)
 
 Log in as admin :
+![15](https://user-images.githubusercontent.com/107058107/232054770-f85c982a-4926-47a9-9279-5311aceeea96.png)
+
+The profile page for the admin :
+![16](https://user-images.githubusercontent.com/107058107/232054806-343034c0-39e5-426b-8e77-845d9de62b39.png)
+
+From this icons in the circle the admin can go to the pages:
+![18](https://user-images.githubusercontent.com/107058107/232054842-1bd8f000-732d-4599-9977-9f4180756039.png)
+
+Movies page :
+![19](https://user-images.githubusercontent.com/107058107/232054867-30d1c663-475d-4b7c-9925-39d25c85ef2e.png)
+
+The admin can delete film from the icon (the icon in the right at the bottom of the 3D flip card )
+![20](https://user-images.githubusercontent.com/107058107/232054900-5ba22cd5-5c67-432d-b56e-6a717d9d5bb3.png)
+
+Show film page for admin, the admin can edit text ,change film poster and change video:
+![21](https://user-images.githubusercontent.com/107058107/232054965-40712361-9c3f-4eea-928c-d9be1a3cec26.png)
+![22](https://user-images.githubusercontent.com/107058107/232055009-f956b93d-af9e-40b0-883c-1002bffa6f9f.png)
+![23](https://user-images.githubusercontent.com/107058107/232055111-b3809c75-001c-4bae-8c18-b0b4d168b866.png)
+
+This page is for displaying user information for admin:
+![24](https://user-images.githubusercontent.com/107058107/232055143-232ffa21-b55a-4b0f-a5ac-8e6a089f99a5.png)
+
+Contact page for admin , On this page, the admin can talk to the user, respond to him and answer his questions:
+![25](https://user-images.githubusercontent.com/107058107/232055238-5a51470c-72c4-4c1a-9752-e8ee427701d4.png)
+
+This page for adding new film :
+![26](https://user-images.githubusercontent.com/107058107/232055317-7a7ca630-2b29-4a53-b148-ca173d5b1ddc.png)
+![27](https://user-images.githubusercontent.com/107058107/232055333-f4c80330-a4bd-4b8c-990c-3e68df8f54eb.png)
+
 
 
 
