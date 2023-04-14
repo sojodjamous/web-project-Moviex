@@ -34,6 +34,9 @@ When the user click on movie icon (at the bottom of the 3D flip card ) it will g
 ![11](https://user-images.githubusercontent.com/107058107/232053552-3545f432-abfa-482e-949c-fc5a61007b8c.png)
 
 This page to classification film , this page appear when the user click on film type(action ,comedy….etc) in category section in movie page:
+![12](https://user-images.githubusercontent.com/107058107/232053836-79529bea-c7cd-478d-95b0-39e4df5a7112.png)
+
+The user can add the film to favorite list when he clike on star icon (at the bottom of the 3D flip card ) or clik on button add to favorite in show film page ,,and this is the favorite page :
 
 
 
