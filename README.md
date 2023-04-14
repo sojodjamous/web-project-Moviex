@@ -18,4 +18,6 @@ After log in , the user will enter to his profile page :
 When the user clike on lock icon in his profile , the change password page will appear and he can change his password:
 ![5](https://user-images.githubusercontent.com/107058107/232051491-dfa02706-0125-4465-8248-b98823c56458.png)
 
+This is movies page , this page appears when the click on movie icon (the first icon from the right in navbar  in profile page)
+![6](https://user-images.githubusercontent.com/107058107/232052578-2f8a7fd4-e44b-470c-8d9c-015807dba0df.png)
 
