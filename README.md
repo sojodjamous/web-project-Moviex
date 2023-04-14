@@ -40,6 +40,10 @@ The user can add the film to favorite list when he clike on star icon (at the bo
 ![13](https://user-images.githubusercontent.com/107058107/232054129-9173abd7-aa0d-471e-8580-c3fcd400912e.png)
 
 This is contact us page ,the user can send an message and the message will receive to us on the email : 
+![14](https://user-images.githubusercontent.com/107058107/232054395-2100d359-895c-4eb3-b808-566fafb69499.png)
+
+Log in as admin :
+
 
 
 
