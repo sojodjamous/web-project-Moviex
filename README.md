@@ -37,6 +37,9 @@ This page to classification film , this page appear when the user click on film 
 ![12](https://user-images.githubusercontent.com/107058107/232053836-79529bea-c7cd-478d-95b0-39e4df5a7112.png)
 
 The user can add the film to favorite list when he clike on star icon (at the bottom of the 3D flip card ) or clik on button add to favorite in show film page ,,and this is the favorite page :
+![13](https://user-images.githubusercontent.com/107058107/232054129-9173abd7-aa0d-471e-8580-c3fcd400912e.png)
+
+This is contact us page ,the user can send an message and the message will receive to us on the email : 
 
 
 
