@@ -4,5 +4,5 @@ MovieX is an online website that offers watching movies online and downloading t
 GUI:
 
 The home page , the user or admin can go to sign in page from this page:
-[Uploading 1.png…]()
+![1](https://user-images.githubusercontent.com/107058107/232050341-a45ce201-efe0-4012-b369-e4a48bcb60db.png)
 
